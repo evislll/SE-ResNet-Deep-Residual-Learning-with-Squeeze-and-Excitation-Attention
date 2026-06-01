@@ -1,5 +1,5 @@
 # SE-ResNet: Deep Residual Learning with Squeeze-and-Excitation Attention
-# Deep Residual Learning: Reproduction, Analysis, and Improvement
+## Deep Residual Learning: Reproduction, Analysis, and Improvement
 
 
 **Paper:** *Deep Residual Learning for Image Recognition*
